@@ -15,9 +15,6 @@
 - Адаптивная вёрстка (проверено на Android и iPhone).
 
 ## Скриншоты
-
-Смотри `screenshots/`.
-## Скриншоты
 ![Hero](./screenshots/01_hero.png)
 ![Каталог](./screenshots/02_catalog.png)
 ![Mobile](./screenshots/03_mobile.png)
