@@ -14,11 +14,24 @@
 - Индикаторы наличия (в наличии / мало / под заказ).
 - Адаптивная вёрстка (проверено на Android и iPhone).
 
+
 ## Скриншоты
+
+### Главный экран
+
 ![Hero](./screenshots/01_hero.png)
+
+### Каталог товаров
+
 ![Каталог](./screenshots/02_catalog.png)
+
+### Мобильная версия
+
 ![Mobile](./screenshots/03_mobile.png)
-![04_forma sv](./screenshots/03_mobile.png)
+
+### Форма заказа
+
+![Форма](./screenshots/04_form.png)
 ## Стек
 
 - Tilda (Zero Block + стандартные блоки)
